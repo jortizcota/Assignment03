@@ -1,12 +1,14 @@
 img {
 	max-width: 25%;
 }
+
 h1, h2, h3, h4, h5, h6 {
 	color: blue;
 	color: blue;
 	font-family: monospace, "Comic Sans", "Times New Roman";
 	text-shadow: 4px 4px 0 gray;
 }
+
 h1 {
 	font-size: 3em;
 }
@@ -34,13 +36,10 @@ tr:hover {
 	background-color: grey;
 }
 
-
 a:link, a:visited {
 	color: blue;
 }
 
-
-
 a:hover, a:focus {
-	color: green;
+	color:purple;
 }
